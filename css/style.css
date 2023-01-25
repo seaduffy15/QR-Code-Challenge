@@ -1,0 +1,49 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
+.outer{
+    background-color: white;
+    width: 500px;
+    height: 700px;
+    margin: 75px auto;
+    border-radius: 25px;
+}
+
+.text {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.qrcode {
+    width: 400px;
+    height: 500px;
+}
+
+.image {
+    width: 430px;
+    padding: 30px;
+    border-radius: 10%;
+}
+
+.attribution {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    font-size: 10px;
+    padding-top: 20px;
+}
